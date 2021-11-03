@@ -5,15 +5,15 @@
         "image": "https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png",
         "github": "https://dmtuominen22.github.io/react-portfolio/",
         "deploy": "https://dmtuominen22.github.io/team-profile-generator/",
-        "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+        "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, MongoDB, mongoose"
     },
     {
         "id": 2,
-        "name": "Daily Scheduler",
+        "name": " Work Day Scheduler",
         "image": "https://user-images.githubusercontent.com/84994258/126083491-781839e8-d8ec-4438-aa51-0a5dd5c2738e.png",
         "github": "https://github.com/dmtuominen22/daily-scheduler",
         "deploy": "https://dmtuominen22.github.io/daily-scheduler",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "topics": "HTML, CSS, JavaScript, Bootstrap, .Moments, Jquery"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "image": "https://user-images.githubusercontent.com/84994258/135731977-0238fe5b-d39f-471e-b354-ba9d62973f0b.PNG",
         "github": "https://github.com/dmtuominen22/tech-blog",
         "deploy": "https://infinite-taiga-25020.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "topics": "JavaScript, handlebars.js, Node.js, MySQL, MVC, Heroku. Express.js, Sequelize ORM"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "image": "https://user-images.githubusercontent.com/84994258/126884819-e99c9acf-f165-4111-8874-62ce162fc18f.png",
         "github": "https://github.com/dmtuominen22/weatherdashboard",
         "deploy": "https://dmtuominen22.github.io/weatherdashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
+        "topics": "HTML, CSS, JavaScript, Bootstrap, Server-Side APIs"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "image": "https://user-images.githubusercontent.com/84994258/139605317-9706324f-220a-4284-b374-2d6493823fb0.png",
         "github": "https://github.com/dmtuominen22/Budget-Tracker",
         "deploy": "https://gunnarboy-budget-tracker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+        "topics": "HTML5, CSS, JQuery, Express, MondgoDB, IndexedDB, Bootstrap, Mongoose"
     },
     {
         "id": 6,

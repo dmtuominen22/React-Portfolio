@@ -24,7 +24,7 @@ Image of App
 ![image](https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png)
 
 ## Languages
-  JavaScript, Node.js, MongoDB, Express.js, Mongoosejs, Heroku, React
+  Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, MongoDB, mongoose
 ## Installations
   You will need to install NPM install, MongoDB on your computer.
 and use npm start and Insomnia.
