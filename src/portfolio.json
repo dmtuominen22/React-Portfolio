@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "React Portfolio",
-        "image": "https://user-images.githubusercontent.com/84994258/126083491-781839e8-d8ec-4438-aa51-0a5dd5c2738e.png",
+        "image": "https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png",
         "github": "https://dmtuominen22.github.io/react-portfolio/",
         "deploy": "https://dmtuominen22.github.io/team-profile-generator/",
         "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Budget Tracker",
-        "image": "https://user-images.githubusercontent.com/84994258/139605317-9706324f-220a-4284-b374-2d6493823fb0.png)",
+        "image": "https://user-images.githubusercontent.com/84994258/139605317-9706324f-220a-4284-b374-2d6493823fb0.png",
         "github": "https://github.com/dmtuominen22/Budget-Tracker",
         "deploy": "https://gunnarboy-budget-tracker.herokuapp.com/",
         "topics": "node, express, javascript, mongoDB, mongoose, nodemon"

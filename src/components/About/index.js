@@ -7,7 +7,7 @@ function About() {
         <h2 class="top-title">Denise Tuominen</h2>
         <hr></hr>
         <div>
-        <img class="mb-5" id="image" src="docs\images\denise.jpg" alt="Denise Tuominen" />
+        <img class="mb-5" id="avatar" src="https://user-images.githubusercontent.com/84994258/140098853-4bfaf3bf-400d-4e52-a8b2-faa07a0da070.jpg" alt="Denise Tuominen" />
 
                 <p>
                     I am a highly motivated Web Content Specialist with a long-standing
