@@ -15,7 +15,7 @@ function About() {
                     creative solutions to problems. I enjoy brainstorming sessions with my
                     team to collaborate toward process development for business
                     improvement. I have proven a highly capable part of this team and my
-                    input and advise is sought out across the teams
+                    input and advise is sought out across the teams.
                 </p>
                 <br />
                 <p>
