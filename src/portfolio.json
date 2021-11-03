@@ -4,46 +4,47 @@
         "name": "React Retreat",
         "image": "https://user-images.githubusercontent.com/84994258/126083491-781839e8-d8ec-4438-aa51-0a5dd5c2738e.png",
         "github": "https://dmtuominen22.github.io/react-portfolio/",
-        "deploy": "",
-        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
-    },
-    {
-        "id": 2,
-        "name": "Daily Scheduler",
-        "image": "https://user-images.githubusercontent.com/84994258/126083491-781839e8-d8ec-4438-aa51-0a5dd5c2738e.png",
-        "github": "https://github.com/dmtuominen22/daily-scheduler",
-        "deploy": "https://dmtuominen22.github.io/daily-scheduler",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
-    },
-    {
-        "id": 3,
-        "name": "Tech Blog",
-        "image": "https://user-images.githubusercontent.com/84994258/135731977-0238fe5b-d39f-471e-b354-ba9d62973f0b.PNG",
-        "github": "https://github.com/dmtuominen22/tech-blog",
-        "deploy": "https://infinite-taiga-25020.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
-    },
-    {
-        "id": 4,
-        "name": "Weather Dashboard",
-        "image": "https://user-images.githubusercontent.com/84994258/126884819-e99c9acf-f165-4111-8874-62ce162fc18f.png",
-        "github": "https://github.com/dmtuominen22/weatherdashboard",
-        "deploy": "https://dmtuominen22.github.io/weatherdashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
-    },
-    {
-        "id": 5,
-        "name": "Budget Tracker",
-        "image": "https://user-images.githubusercontent.com/84994258/139605317-9706324f-220a-4284-b374-2d6493823fb0.png)",
-        "github": "https://github.com/dmtuominen22/Budget-Tracker",
-        "deploy": "https://gunnarboy-budget-tracker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
-    },
-    {
-        "id": 6,
-        "name": "Team Profile Generator",
-        "image": "https://user-images.githubusercontent.com/84994258/131234775-cab3f3bc-9a87-4f0f-bced-90560637c6cb.png",
-        "github": "https://github.com/dmtuominen22/team-profile-generator",
-        "deploy": "https://dmtuominen22.github.io/team-profile-generator/",
-        "topics": "JavaScript, HTML, CSS, jQuery, Bootstrap, Node, jest"
+        // "deploy": "",
+        "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+    }
+    // {
+    //     "id": 2,
+    //     "name": "Daily Scheduler",
+    //     "image": "https://user-images.githubusercontent.com/84994258/126083491-781839e8-d8ec-4438-aa51-0a5dd5c2738e.png",
+    //     "github": "https://github.com/dmtuominen22/daily-scheduler",
+    //     "deploy": "https://dmtuominen22.github.io/daily-scheduler",
+    //     "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    // },
+    // {
+    //     "id": 3,
+    //     "name": "Tech Blog",
+    //     "image": "https://user-images.githubusercontent.com/84994258/135731977-0238fe5b-d39f-471e-b354-ba9d62973f0b.PNG",
+    //     "github": "https://github.com/dmtuominen22/tech-blog",
+    //     "deploy": "https://infinite-taiga-25020.herokuapp.com/",
+    //     "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    // },
+    // {
+    //     "id": 4,
+    //     "name": "Weather Dashboard",
+    //     "image": "https://user-images.githubusercontent.com/84994258/126884819-e99c9acf-f165-4111-8874-62ce162fc18f.png",
+    //     "github": "https://github.com/dmtuominen22/weatherdashboard",
+    //     "deploy": "https://dmtuominen22.github.io/weatherdashboard/",
+    //     "topics": "moment.js, javascript, jQuery, localStorage, API"
+    // },
+    // {
+    //     "id": 5,
+    //     "name": "Budget Tracker",
+    //     "image": "https://user-images.githubusercontent.com/84994258/139605317-9706324f-220a-4284-b374-2d6493823fb0.png)",
+    //     "github": "https://github.com/dmtuominen22/Budget-Tracker",
+    //     "deploy": "https://gunnarboy-budget-tracker.herokuapp.com/",
+    //     "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    // },
+    // {
+    //     "id": 6,
+    //     "name": "Team Profile Generator",
+    //     "image": "https://user-images.githubusercontent.com/84994258/131234775-cab3f3bc-9a87-4f0f-bced-90560637c6cb.png",
+    //     "github": "https://github.com/dmtuominen22/team-profile-generator",
+    //     "deploy": "https://dmtuominen22.github.io/team-profile-generator/",
+    //     "topics": "JavaScript, HTML, CSS, jQuery, Bootstrap, Node, jest"
+    // }
 ]
