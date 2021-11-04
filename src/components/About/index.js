@@ -15,12 +15,11 @@ function About() {
                     creative solutions to problems. I enjoy brainstorming sessions with my
                     team to collaborate toward process development for business
                     improvement. I have proven a highly capable part of this team and my
-                    input and advise is sought out across the teams.
+                    input and advice is sought out across the teams.
                 </p>
                 <br />
                 <p>
-                    Below you can explore the projects I have created. Using Below you can explore the projects I have created. Using HTML, CSS, JaveScript, jquery, Local Storage, Webh APIs, Third-Party APIs, Server-Side APIs, Node.js, Object-Oriented Programming, Express.js, SQL, Object-Relational Mapping (ORM), Model View Controller (MVC), Regex, Progressive Web Allications (PWA) and React. I would like to become a Web Developer, creating and
-                    enhancing programs.. I would like to become a Web Developer, creating and enhancing programs.
+                    By going to my protfolio page you can see the projects I have created. Using HTML, CSS, JaveScript, jquery, Local Storage, Webh APIs, Third-Party APIs, Server-Side APIs, Node.js, Object-Oriented Programming, Express.js, SQL, Object-Relational Mapping (ORM), Model View Controller (MVC), Regex, Progressive Web Allications (PWA) and React. I would like to become a Web Developer, creating and enhancing programs.. I would like to become a Web Developer, creating and enhancing programs.
                 </p>
             </div>
         </section>
