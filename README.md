@@ -14,11 +14,13 @@ This application people to see the work you have done, There is a section for yo
 
 
 ## GitHub
+
 https://github.com/dmtuominen22/react-portfolio
 
 ## Website 
 Deployed on Github
-https://dmtuominen22.github.io/react-portfolio/
+
+https://dmtuominen22.github.io/react-portfolio/#/about
 
 Image of App
 ![image](https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png)

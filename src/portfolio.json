@@ -3,7 +3,7 @@
         "id": 1,
         "name": "React Portfolio",
         "image": "https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png",
-        "github": "https://dmtuominen22.github.io/react-portfolio/",
+        "github": "https://dmtuominen22.github.io/react-portfolio/#/about",
         "deploy": "",
         "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, MongoDB, mongoose"
     },
