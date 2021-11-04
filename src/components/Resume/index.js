@@ -25,7 +25,7 @@ function Resume() {
           </p>
 
           <a
-            href="assets/documents/Denise Tuominen Resume.pdf"
+            href="https://github.com/dmtuominen22/react-portfolio/files/7471999/Denise.Tuominen.Resume.pdf"
             class="link"
           >
             Download Resume
