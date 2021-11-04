@@ -9,7 +9,7 @@
 * [Contributions](#contributions)
 
 ## Description
-    This application uses Express, Node, MongoDB and Mongoose to allow users, thoughts, friend lists and thought reactions to be created, updated and deleted.
+This application people to see the work you have done, There is a section for your Portfolio that has 6 projects I have done, it has a contact page so someone can send me feedback or comments about the repository.  The home page is about me and tells some of the languages I have learned and about myself and what I am looking for in a position.
     
 
 
@@ -17,17 +17,17 @@
 https://github.com/dmtuominen22/react-portfolio
 
 ## Website 
-Deployed on Heroku 
-
+Deployed on Github
+https://dmtuominen22.github.io/react-portfolio/
 
 Image of App
 ![image](https://user-images.githubusercontent.com/84994258/140099777-d0853bd9-cc8a-494f-a72d-740d7a2e1623.png)
 
 ## Languages
-  Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, MongoDB, mongoose
+  Reactjs, Creat-React-App service worker, React-bootstrap, node, express-session, jawsdb, MongoDB, mongoose, 
 ## Installations
   You will need to install NPM install, MongoDB on your computer.
-and use npm start and Insomnia.
+and use npm start 
  ## Contributions
   Denise Tuominen
   
