@@ -19,7 +19,7 @@ function About() {
                 </p>
                 <br />
                 <p>
-                    By going to my portfolio page you can see the projects I have created. The technology I have used is HTML, CSS, JaveScript, jquery, Local Storage, Webh APIs, Third-Party APIs, Server-Side APIs, Node.js, Object-Oriented Programming, Express.js, SQL, Object-Relational Mapping (ORM), Model View Controller (MVC), Regex, Progressive Web Allications (PWA) and React. I would like to become a Web Developer, creating and enhancing programs.
+                    By going to my portfolio page you can see a few projects I have created. The technology I used are HTML, CSS, JaveScript, jquery, Local Storage, Webh APIs, Third-Party APIs, Server-Side APIs, Node.js, Object-Oriented Programming, Express.js, SQL, Object-Relational Mapping (ORM), Model View Controller (MVC), Regex, Progressive Web Allications (PWA) and React. I would like to become a Web Developer, creating and enhancing programs.
                 </p>
             </div>
         </section>
