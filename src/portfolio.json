@@ -10,10 +10,10 @@
     {
         "id": 2,
         "name": "Christmas Wonderland ",
-        "image": "",
+        "image": "https://user-images.githubusercontent.com/84994258/143349528-e1e3adb4-fbd3-4adb-8212-90bef9e44d00.png",
         "github": "https://github.com/dmtuominen22/christmas-wonderland",
         "deploy": "",
-        "topics": ""
+        "topics": "HTML, CSS, Javascript, GraphQL, MongoDB / Mongoose, Express, React, Node, Jest, Slice"
     },
     {
         "id": 3,
