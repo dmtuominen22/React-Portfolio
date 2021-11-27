@@ -7,14 +7,14 @@
         "deploy": "https://dmtuominen22.github.io/react-portfolio/#/about",
         "topics": "Reactjs, Creat-React-App service worker, ReactStrap, node, express-session, jawsdb, MongoDB, mongoose"
     },
-    // {
-    //     "id": 2,
-    //     "name": "Christmas Wonderland ",
-    //     "image": "https://user-images.githubusercontent.com/84994258/143349528-e1e3adb4-fbd3-4adb-8212-90bef9e44d00.png",
-    //     "github": "https://github.com/dmtuominen22/christmas-wonderland",
-    //     "deploy": "adding url to this as soon as I get it ",
-    //     "topics": "HTML, CSS, Javascript, GraphQL, MongoDB / Mongoose, Express, React, Node, Jest, Slice"
-    // },
+    {
+        "id": 2,
+        "name": "Christmas Wonderland ",
+        "image": "https://user-images.githubusercontent.com/84994258/143349528-e1e3adb4-fbd3-4adb-8212-90bef9e44d00.png",
+        "github": "https://github.com/dmtuominen22/christmas-wonderland",
+        "deploy": "adding url to this as soon as I get it ",
+        "topics": "HTML, CSS, Javascript, GraphQL, MongoDB / Mongoose, Express, React, Node, Jest, Slice"
+    },
     {
         "id": 3,
         "name": "Tech Blog",
